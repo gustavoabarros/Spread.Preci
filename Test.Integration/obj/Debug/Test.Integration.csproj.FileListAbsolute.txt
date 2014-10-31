@@ -1,0 +1,9 @@
+C:\MZ\CloudIn\CloudRF\Test.Integration\bin\Debug\Test.Integration.dll
+C:\MZ\CloudIn\CloudRF\Test.Integration\bin\Debug\Test.Integration.pdb
+C:\MZ\CloudIn\CloudRF\Test.Integration\bin\Debug\WebDriver.dll
+C:\MZ\CloudIn\CloudRF\Test.Integration\bin\Debug\WebDriver.xml
+C:\MZ\CloudIn\CloudRF\Test.Integration\obj\Debug\Test.Integration.csprojResolveAssemblyReference.cache
+C:\MZ\CloudIn\CloudRF\Test.Integration\obj\Debug\Test.Integration.dll
+C:\MZ\CloudIn\CloudRF\Test.Integration\obj\Debug\Test.Integration.pdb
+C:\MZ\CloudIn\CloudRF\Test.Integration\bin\Debug\WebDriver.Support.dll
+C:\MZ\CloudIn\CloudRF\Test.Integration\bin\Debug\WebDriver.Support.xml
