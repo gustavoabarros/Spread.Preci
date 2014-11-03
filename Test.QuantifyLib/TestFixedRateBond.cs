@@ -1,5 +1,6 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
+using Spread.Price.Bonds.Specialized;
 using Spread.Quantify;
 
 namespace Test.QuantifyLib

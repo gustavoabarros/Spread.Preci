@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
+using Spread.Price.Bonds.Specialized;
 using Spread.Quantify;
 
 namespace Test.QuantifyLib

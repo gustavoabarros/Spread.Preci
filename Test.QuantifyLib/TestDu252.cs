@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
+using Spread.Price.Day;
 using Spread.Quantify;
 
 namespace Test.QuantifyLib

@@ -5,3 +5,10 @@ C:\MZ\CloudIn\CloudRF\QuantifyLib\bin\Debug\Ninject.dll
 C:\MZ\CloudIn\CloudRF\QuantifyLib\bin\Debug\Ninject.xml
 C:\MZ\CloudIn\CloudRF\QuantifyLib\obj\Debug\Spread.Quantify.dll
 C:\MZ\CloudIn\CloudRF\QuantifyLib\obj\Debug\Spread.Quantify.pdb
+C:\Gi\Spread.Preci\QuantifyLib\bin\Debug\Spread.Quantify.dll
+C:\Gi\Spread.Preci\QuantifyLib\bin\Debug\Spread.Quantify.pdb
+C:\Gi\Spread.Preci\QuantifyLib\bin\Debug\Ninject.dll
+C:\Gi\Spread.Preci\QuantifyLib\bin\Debug\Ninject.xml
+C:\Gi\Spread.Preci\QuantifyLib\obj\Debug\Spread.Quantify.csprojResolveAssemblyReference.cache
+C:\Gi\Spread.Preci\QuantifyLib\obj\Debug\Spread.Quantify.dll
+C:\Gi\Spread.Preci\QuantifyLib\obj\Debug\Spread.Quantify.pdb
