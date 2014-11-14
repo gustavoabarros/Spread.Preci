@@ -1,0 +1,7 @@
+C:\Gi\Spread.Preci\QuantifyLib\bin\Debug\Spread.Price.dll
+C:\Gi\Spread.Preci\QuantifyLib\bin\Debug\Spread.Price.pdb
+C:\Gi\Spread.Preci\QuantifyLib\bin\Debug\Ninject.dll
+C:\Gi\Spread.Preci\QuantifyLib\bin\Debug\Ninject.xml
+C:\Gi\Spread.Preci\QuantifyLib\obj\Debug\Spread.Price.csprojResolveAssemblyReference.cache
+C:\Gi\Spread.Preci\QuantifyLib\obj\Debug\Spread.Price.dll
+C:\Gi\Spread.Preci\QuantifyLib\obj\Debug\Spread.Price.pdb

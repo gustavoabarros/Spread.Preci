@@ -1,0 +1,8 @@
+C:\Gi\Spread.Preci\Test.QuantifyLib\bin\Debug\bizdays.txt
+C:\Gi\Spread.Preci\Test.QuantifyLib\bin\Debug\Test.Price.dll
+C:\Gi\Spread.Preci\Test.QuantifyLib\bin\Debug\Test.Price.pdb
+C:\Gi\Spread.Preci\Test.QuantifyLib\bin\Debug\Spread.Price.dll
+C:\Gi\Spread.Preci\Test.QuantifyLib\bin\Debug\Spread.Price.pdb
+C:\Gi\Spread.Preci\Test.QuantifyLib\obj\Debug\Test.Price.csprojResolveAssemblyReference.cache
+C:\Gi\Spread.Preci\Test.QuantifyLib\obj\Debug\Test.Price.dll
+C:\Gi\Spread.Preci\Test.QuantifyLib\obj\Debug\Test.Price.pdb

@@ -64,10 +64,10 @@ namespace Spread.Price.Bonds
 
         protected override void PerformCalculate()
         {
-            _NVP = _CalculateEventsPresentValue();
+            _NVP = _CalculateCashFlowPresentValue();
         }
 
-        private decimal _CalculateEventsPresentValue()
+        private decimal _CalculateCashFlowPresentValue()
         {
             decimal _amortizadedRate = 0;
             decimal totalPresenteValue = 0;
