@@ -9,6 +9,8 @@ namespace Spread.Price.Day
 {
     public class BusinessDay
     {
+        private readonly string BIZ_DAYS_FILE = "bizdays.txt";
+
         private List<DateTime> _bizDays;
         public List<DateTime> BizDays
         {
@@ -36,7 +38,7 @@ namespace Spread.Price.Day
 
             try
             {
-                using (StreamReader sr = new StreamReader("bizdays.txt"))
+                using (StreamReader sr = new StreamReader(BIZ_DAYS_FILE))
                 {
                     while(sr.EndOfStream==false)
                     {
@@ -50,7 +52,7 @@ namespace Spread.Price.Day
             }
             catch (Exception e)
             {
-                Console.WriteLine("The file could not be read:");
+                Console.WriteLine("The file " + BIZ_DAYS_FILE + " could not be read.");
                 Console.WriteLine(e.Message);
             }
 
